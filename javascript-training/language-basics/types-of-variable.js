@@ -19,3 +19,5 @@ let empName = "Bharath"; //global
 
 console.log(empName);
 console.log(empAge);
+
+//git remote add origin https://github.com/Premnath-Suryawanshi/assignments.git
