@@ -58,3 +58,11 @@ console.log ("Person's Occupation:", personOccupation);
 let colour:string ="Blue"
 console.log (`Person's favourite colour: ${colour}`);
 
+// Current year: 2023
+let year:number =2023
+console.log (`Current Year : ${year}`);
+
+//Number of followers on a social media platform: 1,000,000
+
+let followers:string = "1,000,000";
+console.log (`Number of followers on a social media platform: : ${followers}`);
