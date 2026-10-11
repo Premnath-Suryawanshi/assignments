@@ -66,3 +66,39 @@ console.log (`Current Year : ${year}`);
 
 let followers:string = "1,000,000";
 console.log (`Number of followers on a social media platform: : ${followers}`);
+
+// Rating of a movie: 7.5
+let rating:number =7.5
+console.log ("Rating of Movie : " , rating)
+
+//Person's blood type: 'A'
+let bloodType : String ='A';
+console.log("Persons Blood Type" , bloodType)
+
+//Title of a book: "To Kill a Mockingbird"
+let bookTitle: string = "To Kill a Mockingbird";
+console.log("Book Title:", bookTitle);
+
+// Number of employees in a company: 500
+let employeeCount: number = 500;
+console.log("Employee Count:", employeeCount);
+
+// Time of an event: 2:30 PM
+let eventTime: string = "2:30 PM";
+console.log("Event Time:", eventTime);
+
+// Name of a country: "United States"
+let countryName: string = "United States";
+console.log("Country Name:", countryName);
+
+// Person's eye color: "Brown"
+let eyeColor: string = "Brown";
+console.log("Eye Color:", eyeColor);
+
+// Person's birthplace: "New York City"
+let birthplace: string = "New York City";
+console.log("Birthplace:", birthplace);
+
+// 	Distance between two cities: 200.5
+let distanceBetweenCities: number = 200.5;
+console.log("Distance Between Cities:", distanceBetweenCities);
