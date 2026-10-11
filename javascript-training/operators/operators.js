@@ -16,7 +16,7 @@ console.log("1. Arithmetic operators ");
 /// => Division
 //% => Modulus  (Remainder of division)
 // ++ => Increase value by 1 (Post Increment)
-// -- => Decrease value by 1 (Pos)
+// -- => Decrease value by 1 (Post Decrement)
 
 let a=10;
 let b=20;
@@ -101,6 +101,7 @@ console.log(!(p<q || q >r)) ; // not (true or false ) => not (true) => false
 // 5. Ternary operator => Ternary operator is a special character used to perform a conditional operation. It's a shorthand of an if-else conditional s...
 //Syntax : let result = (condition) ? value-if-true : value-if-false
 
-let age = 17;
+let age = 18;
 
 let result = (age >= 18) ? "Eligible" : "Not Eligible";
+console.log(result);

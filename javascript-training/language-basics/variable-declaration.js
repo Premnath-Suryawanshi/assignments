@@ -65,3 +65,11 @@ console.log(x); // This will work because `x` is not block-scoped.
 console.log(y); // This will throw an error because `y` is block-scoped.
 
 
+
+var k=20;
+let o=20;
+var l=50;
+let i=60;
+
+console.log(k); 
+//console.log(k); 
